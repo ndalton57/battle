@@ -1,7 +1,7 @@
 # Battle
 A little 2 day ASCII art 'game' I made back in 2017
 
-It runs in the terminal, but I made this when Windows 7 was still being used, so I don't think it supports the shiny new Windows 11 terminal. You'll have to use command prompt or powershell
+It runs in the terminal, but I made this when I was still using Windows 7, so I don't think it supports the shiny new Windows 11 terminal. You'll have to use command prompt or powershell
 
 ![battle](https://github.com/user-attachments/assets/5b702808-9986-4bb1-aa18-487494f55222)
 
